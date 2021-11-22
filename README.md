@@ -8,7 +8,7 @@ This application is deployed on: https://phpmysqlcrudchris49.herokuapp.com/
 
 <img src="https://github.com/chrisnumber49/PHP-MySQL-Employee-Management-App/blob/master/screen%20shot/demo1.PNG" width="800" > 
 <img src="https://github.com/chrisnumber49/PHP-MySQL-Employee-Management-App/blob/master/screen%20shot/demo2.PNG" width="800" > 
-<img src="https://github.com/chrisnumber49/PHP-MySQL-Employee-Management-App/blob/master/screen%20shot/demo2.PNG" width="800" >
+<img src="https://github.com/chrisnumber49/PHP-MySQL-Employee-Management-App/blob/master/screen%20shot/demo3.PNG" width="800" >
 
 ## Installation and Setup Instructions
 
