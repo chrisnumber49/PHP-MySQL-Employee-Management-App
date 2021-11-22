@@ -2,7 +2,7 @@
 
 An application that implement employee information management interface with php and MySQL.
 
-This application is deployed on: https://phpcrudchris49.herokuapp.com/
+This application is deployed on: https://phpmysqlcrudchris49.herokuapp.com/
 
 ## Project Screen Shots
 
