@@ -1,6 +1,6 @@
 # PHP MySQL Employee Management App
 
-An employee information management application with PHP and MySQL.
+An employee information management application built with PHP and MySQL.
 
 This application is deployed on: https://phpmysqlcrudchris49.herokuapp.com/
 
